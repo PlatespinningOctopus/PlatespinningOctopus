@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PlatespinningOctopus
+- 👀 I’m interested in game development and narrative design.
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on games
+- 📫 How to reach me terrabce.butler@platespinningoctopus.com
