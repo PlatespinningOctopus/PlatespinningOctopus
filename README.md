@@ -1,6 +1,5 @@
-# 👋 Hi, I’m Terrance Butler aka @PlatespinningOctopus
-
-I'm a Full Stack Development student at Thinkful, with a background in Quality Program Management. I'm transitioning into tech to combine my love for problem-solving, creativity, and my long-standing interest in game development and narrative design.
+# @PlatespinningOctopus
+Quality Program Management. I'm transitioning into tech to combine my love for problem-solving, creativity, and my long-standing interest in game development and narrative design.
 
 ## 🕹️ My Interests
 - **Game Development**: Crafting immersive experiences and engaging narratives.
